@@ -1,0 +1,9 @@
+download zlib:
+https://www.zlib.net/
+
+./configure --prefix=$PATH
+
+where $PATH is the path of where you want to install the library
+
+make 
+make install
